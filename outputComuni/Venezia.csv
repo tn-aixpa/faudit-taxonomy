@@ -1,0 +1,37 @@
+,Voce della tassonomia,Frequenza,Codice,azione,Macroambito,codice_macro,descrizione_codice_macro,numero_codice_campo,descrizione_codice_campo,count
+0,21,1,B04-0404,Agevolazioni per tariffe comunali,Misure economiche,B,Misure economiche,4,Agevolazioni e contributi,424
+1,23,1,B04-0412,Agevolazioni e contributi per famiglie numerose,Misure economiche,B,Misure economiche,4,Agevolazioni e contributi,247
+2,30,1,B04-0440,"Promozione della natalitа (Bonus bebи, kit nuovi nati ecc.)",Misure economiche,B,Misure economiche,4,Agevolazioni e contributi,695
+3,40,1,B05-0516,Wifi free,Misure economiche,B,Misure economiche,5,Benefit e scontistica,103
+4,52,1,D08-0804,"Incontri formativi e informativi: Media education, cittadinanza digitale, digital divide e nuove tecnologie",Comunitа educante,D,Comunitа educante,8,Formazione,126
+5,56,1,D08-0820,"Attivitа di educazione ambientale (laboratori, giornate ecologiche, giornata del riuso, raccolta differenziata)",Comunitа educante,D,Comunitа educante,8,Formazione,622
+6,57,1,D08-0824,"Sensibilizzazione su convivenza e rispetto reciproco (impegno civico, volontariato, sicurezza stradale, giornata dell’infanzia e dell’adolescenza, sicurezza delle famiglie)",Comunitа educante,D,Comunitа educante,8,Formazione,202
+7,65,1,D10-1004,"Promozione e organizzazione di eventi ludici (festa delle famiglie, spettacoli ecc.)",Comunitа educante,D,Comunitа educante,10,Eventi e attivitа per le famiglie,311
+8,68,1,D10-1016,"Proposte culturali: museo, cinema, teatro, arte ecc.",Comunitа educante,D,Comunitа educante,10,Eventi e attivitа per le famiglie,978
+9,83,1,D13-1320,Agevolazioni/Contributi per famiglie con figli o familiari disabili,Comunitа educante,D,Comunitа educante,13,Disabilitа e fragilitа sociale,8
+10,92,1,D14-1408,Sensibilizzazione sul tema dell'intercultura ,Comunitа educante,D,Comunitа educante,14,Nuove cittadinanze,115
+11,108,1,E18-1808,"Nido d’infanzia (pubblico, in convenzione)",Welfare territoriale e sostenibilitа,E,Welfare territoriale e sostenibilitа,18,Servizi territoriali,443
+12,114,1,E19-1912,Fasciatoi/Spazio allattamento/Baby Little Home/Spazi per la famiglia,Welfare territoriale e sostenibilitа,E,Welfare territoriale e sostenibilitа,19,Ambiente e infrastrutture,359
+13,116,1,E19-1920,Biblioteca family-oriented / media library,Welfare territoriale e sostenibilitа,E,Welfare territoriale e sostenibilitа,19,Ambiente e infrastrutture,356
+14,134,1,E20-2024,Sostegno alla mobilitа,Welfare territoriale e sostenibilitа,E,Welfare territoriale e sostenibilitа,20,Orari e permessi,234
+15,18,2,A03-0316,Integrazione delle politiche (politiche famiglia/giovanili/sociali/sanitarie ecc),Governance e azioni di rete,A,Governance e azioni di rete,3,Progettazione e monitoraggio,117
+16,26,2,B04-0424,Agevolazioni tariffarie e contributi per servizi educativi e di conciliazione,Misure economiche,B,Misure economiche,4,Agevolazioni e contributi,604
+17,29,2,B04-0436,Sostegno economico alle associazioni del territorio / Concessione spazi,Misure economiche,B,Misure economiche,4,Agevolazioni e contributi,1146
+18,64,2,D09-0928,Centri di aggregazione per giovani,Comunitа educante,D,Comunitа educante,9,Progetti per protagonismo dei giovani,589
+19,90,2,D13-1348,Consegna spesa a domicilio/ Banco alimentare,Comunitа educante,D,Comunitа educante,13,Disabilitа e fragilitа sociale,311
+20,131,2,E20-2012,"Pianificazione urbanistica (strade, parchi, orti, campi sportivi ecc.)",Welfare territoriale e sostenibilitа,E,Welfare territoriale e sostenibilitа,20,Orari e permessi,905
+21,196,2,D09-0932,Attivitа/progetti formativi specifici per bambini e ragazzi,Comunitа educante,D,Comunitа educante,9,Progetti per protagonismo dei giovani,644
+22,39,3,B05-0512,Family card comunale / aziendale e convenzioni per servizi conciliativi e di trasporto,Misure economiche,B,Misure economiche,5,Benefit e scontistica,4
+23,77,3,D12-1212,Progetti di domiciliaritа per anziani non autosufficienti,Comunitа educante,D,Comunitа educante,12,Eventi o attivitа intergenerazionali,8
+24,78,3,D12-1216,Centri socio culturali per anziani e iniziative per il tempo libero,Comunitа educante,D,Comunitа educante,12,Eventi o attivitа intergenerazionali,9
+25,79,3,D13-1304,Progetti per la disabilitа nell’ambito scolastico e conciliazione estiva,Comunitа educante,D,Comunitа educante,13,Disabilitа e fragilitа sociale,7
+26,110,3,E18-1816,"Servizi integrativi: Spazio genitori/bambini, spazio gioco",Welfare territoriale e sostenibilitа,E,Welfare territoriale e sostenibilitа,18,Servizi territoriali,337
+27,9,4,A02-0208,Interventi per rafforzare la rete,Governance e azioni di rete,A,Governance e azioni di rete,2,Azioni di rete e sussidiarietа,314
+28,28,4,B04-0432,Agevolazioni tariffarie e contributi attivitа ricreative/culturali/aggregative/formative,Misure economiche,B,Misure economiche,4,Agevolazioni e contributi,869
+29,54,4,D08-0812,"Incontri formativi e informativi: Educazione, Genitorialitа, Conciliazione, Vita di coppia",Comunitа educante,D,Comunitа educante,8,Formazione,781
+30,5,5,A01-0120,Sistemi premianti,Governance e azioni di rete,A,Governance e azioni di rete,1,Promozione e supporto certificazioni family,126
+31,62,5,D09-0920,"Progetti di partecipazione attiva di bambini, ragazzi e giovani (consiglio comunale dei ragazzi..)",Comunitа educante,D,Comunitа educante,9,Progetti per protagonismo dei giovani,454
+32,89,5,D13-1344,Azioni di contrasto alle dipendenze,Comunitа educante,D,Comunitа educante,13,Disabilitа e fragilitа sociale,335
+33,46,6,C06-0604,Strumenti di comunicazione,Informazione e comunicazione,C,Informazione e comunicazione,6,Comunicazione,810
+34,51,6,C07-0704,Sportelli informativi e di orientamento,Informazione e comunicazione,C,Informazione e comunicazione,7,Ascolto,271
+35,16,8,A03-0308,"Incontri di progettazione e programmazione, gruppo di lavoro",Governance e azioni di rete,A,Governance e azioni di rete,3,Progettazione e monitoraggio,268
