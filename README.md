@@ -39,5 +39,7 @@ The two scripts ```SuggerimentiComuni.py``` and ```SuggerimentiAziende.py``` yie
 ### Examples of input and output
 Within each of the folders  [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) and [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) it is possible to see what is expected from the code. The input data is also available in [data](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/). 
 
+--- 
 
- 
+ ![newplot(6)](https://github.com/user-attachments/assets/640d4637-23e1-4b0d-9ba2-6ebcb5a5ac9b)
+
