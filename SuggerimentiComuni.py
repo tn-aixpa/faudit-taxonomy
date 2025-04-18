@@ -20,7 +20,7 @@ tassonomia = pd.merge(base,
                      on = 'azione', 
                      how= 'right')
     
-fp = 'output/'
+fp = 'outputComuni/'
 os.makedirs(fp, exist_ok=True)
 
 #######################################
