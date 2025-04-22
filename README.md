@@ -18,6 +18,9 @@ I due script ```SuggerimentiComuni.py``` e ```SuggerimentiAziende.py``` fornisco
 All'interno delle cartelle [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) e [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) è possibile visualizzare l'output previsto dallo script. 
 I dati di input sono disponibili nella cartella [data](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/). 
 
+### Come eseguire il codice: 
+git clone 
+
 
 --- 
 🇺🇸-🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENGLISH
