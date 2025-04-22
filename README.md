@@ -24,7 +24,7 @@ Attualmente, il codice per Comuni richiede, durante l'esecuzione del codice, i s
 | -|---|---|---|
 |1|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata)|numero intero|60|
 |2|Nome della Provincia da analizzare|testo|"Trento"|
-|3|Azione / azioni da considerare per analizzare la serie storica nei dati|nome dell'azione multi riga|"Sentieristica", "Agevolazioni tariffarie"|
+|3|Azione / azioni da considerare per analizzare la serie storica nei dati|testo|"Sentieristica", "Agevolazioni tariffarie"|
 
 Infine, viene prodotto un dataset che contiene la similarità tra un'azione con ogni altra azione. La similarità è calcolata sui titoli identici o simili che il Comune ha fornito a due azioni, pur indicando due categorie della tassonomia differenti in esse. 
 
