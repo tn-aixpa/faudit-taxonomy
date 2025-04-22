@@ -20,10 +20,10 @@ I dati sono disponibili nella cartella [data](https://github.com/FluveFV/P1-Sugg
 All'interno delle cartelle [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) e [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) è possibile visualizzare l'output previsto dallo script. 
 
 Attualmente, il codice per Comuni richiede, durante l'esecuzione del codice, i seguenti input:
-|Ordine di apparizione della richiesta|Natura dell'input|Tipo di input|
+|Ordine di apparizione della richiesta|Natura dell'input|Tipo di formato dell'input|
 |---|---|---|
-|1|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente, es. 60)|numero intero|
-|2|Nome della Provincia da analizzare (es. Trento)|nome della città|
+|1|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata, es. 60)|numero intero|
+|2|Nome della Provincia da analizzare (es. Trento)|testo|
 |3|Azione / azioni da considerare per analizzare la serie storica nei dati|nome dell'azione multi riga (es. "Sentieristica", "Agevolazioni tariffarie")|
 
 Infine, viene prodotto un dataset che contiene la similarità tra un'azione con ogni altra azione. La similarità è calcolata sui titoli identici o simili che il Comune ha fornito a due azioni, pur indicando due categorie della tassonomia differenti in esse. 
@@ -61,13 +61,12 @@ The two scripts ```SuggerimentiComuni.py``` and ```SuggerimentiAziende.py``` yie
 The input data is available in [data](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/). 
 Within each of the folders  [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) and [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) it is possible to see what is expected from the code. 
 
-
-Attualmente, il codice per Comuni richiede, durante l'esecuzione del codice, i seguenti input:
-|Ordine di apparizione della richiesta|Natura dell'input|Tipo di input|
-|---|---|---|
-|1|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente, es. 60)|numero intero|
-|2|Nome della Provincia da analizzare (es. Trento)|nome della città|
-|3|Azione / azioni da considerare per analizzare la serie storica nei dati|nome dell'azione multi riga (es. "Sentieristica", "Agevolazioni tariffarie")|
+Currently, the code for Municipalities requires during code execution the following inputs:
+|Order of request display|Input's nature|Data type of input|Example|
+|---|---|---|---|
+|1|Upper threshold of frequency for actions to be considered (to visualize the actions used less frequently than the threshold)|integer|60|
+|2|Name of the Province to analyze|string|"Trento"|
+|3|Action / actions to consider for the analysis of a temporal series|string|("Sentieristica", "Agevolazioni tariffarie")|
 
 Infine, viene prodotto un dataset che contiene la similarità tra un'azione con ogni altra azione. La similarità è calcolata sui titoli identici o simili che il Comune ha fornito a due azioni, pur indicando due categorie della tassonomia differenti in esse. 
 
