@@ -21,7 +21,7 @@ All'interno delle cartelle [outputComuni](https://github.com/FluveFV/P1-Suggerim
 
 Attualmente, il codice per Comuni richiede, durante l'esecuzione del codice, i seguenti input:
 |Ordine di apparizione della richiesta|Natura dell'input|Tipo di formato dell'input|
-|---|---|---|
+| - |---|---|
 |1|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata, es. 60)|numero intero|
 |2|Nome della Provincia da analizzare (es. Trento)|testo|
 |3|Azione / azioni da considerare per analizzare la serie storica nei dati|nome dell'azione multi riga (es. "Sentieristica", "Agevolazioni tariffarie")|
