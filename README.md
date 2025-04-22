@@ -20,11 +20,11 @@ I dati sono disponibili nella cartella [data](https://github.com/FluveFV/P1-Sugg
 All'interno delle cartelle [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) e [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) è possibile visualizzare l'output previsto dallo script. 
 
 Attualmente, il codice per Comuni richiede, durante l'esecuzione del codice, i seguenti input:
-|Ordine di apparizione della richiesta|Natura dell'input|Tipo di formato dell'input|
-| -|---|---|
-|1|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata, es. 60)|numero intero|
-|2|Nome della Provincia da analizzare (es. Trento)|testo|
-|3|Azione / azioni da considerare per analizzare la serie storica nei dati|nome dell'azione multi riga (es. "Sentieristica", "Agevolazioni tariffarie")|
+|Ordine di apparizione della richiesta|Natura dell'input|Tipo di formato dell'input|Example|
+| -|---|---|---|
+|1|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata)|numero intero|60|
+|2|Nome della Provincia da analizzare|testo|"Trento"|
+|3|Azione / azioni da considerare per analizzare la serie storica nei dati|nome dell'azione multi riga|"Sentieristica", "Agevolazioni tariffarie"|
 
 Infine, viene prodotto un dataset che contiene la similarità tra un'azione con ogni altra azione. La similarità è calcolata sui titoli identici o simili che il Comune ha fornito a due azioni, pur indicando due categorie della tassonomia differenti in esse. 
 
