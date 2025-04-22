@@ -25,7 +25,7 @@ I dati di input sono disponibili nella cartella [data](https://github.com/FluveF
 ```gh repo clone FluveFV/P1-SuggerimentoModificheTassonomia```
 - Di seguito, utilizzare python per eseguire il singolo script, ad es. :
 ```python SuggerimentiComuni.py```
-- Seguire le istruzioni sullo schermo in contemporanea alla lettura del codice per simulare un'interazione da linea di comando con i dati, assicurandosi di stare inserendo valori numerici quando esplicitamente richiesti e valori categoriali quando esplicitamente richiesti. 
+- Seguire le istruzioni sullo schermo in contemporanea alla lettura del codice per simulare un'interazione da linea di comando con i dati. Il codice è stato commentato appositamente. Assicurarsi di stare inserendo valori numerici quando esplicitamente richiesti e valori categoriali quando esplicitamente richiesti. 
 
 --- 
 🇺🇸-🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENGLISH
@@ -55,7 +55,7 @@ Within each of the folders  [outputComuni](https://github.com/FluveFV/P1-Suggeri
 ```gh repo clone FluveFV/P1-SuggerimentoModificheTassonomia```
 - Then, use python to execute the individual script, i.e. :
 ```python SuggerimentiComuni.py```
-- Follow the instructions on the screen (which will be in Italian) to simulate an interaction by command line with data, ensuring to insert numerical values when explicitly requested.  Otherwise, ensure inserting categorical values when explicitly requested.
+- Follow the instructions on the screen (which will be in Italian) to simulate an interaction by command line with data. I advise to also look at the commented code in the meantime, ensuring to insert numerical values when explicitly requested.  Otherwise, ensure inserting categorical values when explicitly requested.
 
   
 --- 
