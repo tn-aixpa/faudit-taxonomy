@@ -19,7 +19,7 @@ I due script ```SuggerimentiComuni.py``` e ```SuggerimentiAziende.py``` fornisco
 All'interno delle cartelle [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) e [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) è possibile visualizzare l'output previsto dallo script. 
 I dati di input sono disponibili nella cartella [data](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/). 
 
-### Come eseguire il codice: 
+## Come eseguire il codice: 
 - Prima di eseguire il codice, assicurarsi di aver installato le versioni compatibili di Python e delle sue dipendenze. 
 - Nella posizione desiderata, aprire il terminale ed eseguire il download della repo:
 ```gh repo clone FluveFV/P1-SuggerimentoModificheTassonomia```
@@ -49,8 +49,8 @@ The two scripts ```SuggerimentiComuni.py``` and ```SuggerimentiAziende.py``` yie
 ### Examples of input and output
 Within each of the folders  [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) and [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) it is possible to see what is expected from the code. The input data is also available in [data](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/). 
 
-### How to execute code:
-- Before executing code, ensure to install all compatible Python version and its dependencies. 
+## How to execute code:
+- Before executing code, ensure to install all compatible Python version and its dependencies through (requirements)[https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/blob/main/requirements.txt]. 
 - Open the terminal in the desired location and execute the download of the repo:
 ```gh repo clone FluveFV/P1-SuggerimentoModificheTassonomia```
 - Then, use python to execute the individual script, i.e. :
