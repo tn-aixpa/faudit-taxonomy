@@ -51,7 +51,7 @@ Anche in questo caso, viene prodotto un dataset che contiene la similarità tra 
 🇺🇸-🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENGLISH
 
 Specifics:
-- ```type```: product-template
+- ```kind```: product-template
 - ```ai```: NLP
 -  ```domain```: PA
 
