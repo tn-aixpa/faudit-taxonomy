@@ -51,9 +51,9 @@ Anche in questo caso, viene prodotto un dataset che contiene la similarità tra 
 🇺🇸-🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENGLISH
 
 Specifics:
-- ```tipologia```: product-template
+- ```type```: product-template
 - ```ai```: NLP
--  ```dominio```: PA
+-  ```domain```: PA
 
 Statistical tools for facilitation of policy making processes on the taxonomies regarding Family in Italia and Family Audit projects.
 The code has been built to simulate an interaction with data trough command line to facilitate a front-end adaptation.
