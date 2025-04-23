@@ -48,6 +48,7 @@ Anche in questo caso, viene prodotto un dataset che contiene la similarità tra 
 ```python SuggerimentiComuni.py```
 - Seguire le istruzioni sullo schermo in contemporanea alla lettura del codice per simulare un'interazione da linea di comando con i dati. Il codice è stato commentato appositamente. Assicurarsi di stare inserendo valori numerici quando esplicitamente richiesti e valori categoriali quando esplicitamente richiesti. 
 
+
 --- 
 🇺🇸-🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENGLISH
 
