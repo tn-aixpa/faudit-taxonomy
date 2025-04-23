@@ -19,7 +19,8 @@ I due script ```SuggerimentiComuni.py``` e ```SuggerimentiAziende.py``` fornisco
 I dati sono disponibili nella cartella [data](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/). 
 All'interno delle cartelle [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) e [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) è possibile visualizzare l'output previsto dallo script. 
 
-Attualmente, richiede, durante l'esecuzione del codice, i seguenti input che variano in base alla disponibilità nei dati. 
+Attualmente durante l'esecuzione del codice si richiedono i seguenti input che variano in base alla disponibilità nei dati. L'input viene automaticamente ricollegato alle possibili scelte di variabili nel dataset tramite la libreria ```fuzzywuzzy```.
+
 #### Codice per suggerimenti ai Comuni:
 |Ordine di apparizione della richiesta|Natura dell'input|Tipo di formato dell'input|Example|
 | -|---|---|---|
@@ -70,7 +71,7 @@ The two scripts ```SuggerimentiComuni.py``` and ```SuggerimentiAziende.py``` yie
 The input data is available in [data](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/). 
 Within each of the folders  [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) and [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) it is possible to see what is expected from the code. 
 
-Currently, the code requires the following input that vary on the input data during execution.
+Currently, the code requires the following input that vary on the input data during execution.The input is automatically reconnected to the possible choices of variables in the dataset using the ```fuzzywuzzy``` package.
 #### Code for advising Municipalities:
 |Order of request display|Input's nature|Data type of input|Example|
 |---|---|---|---|
