@@ -91,8 +91,5 @@ Even in this scenario, a dataset is produced containing the similarities between
 ```python SuggerimentiComuni.py```
 - Follow the instructions on the screen (which will be in Italian) to simulate an interaction by command line with data. I advise to also look at the commented code in the meantime, ensuring to insert numerical values when explicitly requested.  Otherwise, ensure inserting categorical values when explicitly requested.
 
-  
---- 
-
- ![newplot(6)](https://github.com/user-attachments/assets/640d4637-23e1-4b0d-9ba2-6ebcb5a5ac9b)
+---
 
