@@ -22,20 +22,16 @@ All'interno delle cartelle [outputComuni](https://github.com/FluveFV/P1-Suggerim
 Attualmente durante l'esecuzione del codice si richiedono i seguenti input che variano in base alla disponibilità nei dati. L'input viene automaticamente ricollegato alle possibili scelte di variabili nel dataset tramite la libreria ```fuzzywuzzy```.
 
 #### Codice per suggerimenti ai Comuni:
-|Ordine di apparizione della richiesta|Natura dell'input|Tipo di formato dell'input|Example|
-| -|---|---|---|
-|1|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata)|numero intero|60|
-|2|Nome della Provincia da analizzare|testo|"Trento"|
-|3|Azione / azioni da considerare per analizzare la serie storica di uso nei dati|testo|"Sentieristica", "Agevolazioni tariffarie"|
+|Natura dell'input|Tipo di formato dell'input|Example|
+|---|---|---|
+|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata)|numero intero|10|
 
 Infine, viene prodotto un dataset che contiene la similarità tra ogni azione e tutte le altre azioni. Solo le similarità sopra una soglia del 75% (modificabile) vengono effettivamente salvate. La similarità è calcolata sui **titoli** identici o simili che il Comune ha fornito a due azioni, pur indicando due categorie della tassonomia differenti in esse. 
 
 #### Codice per suggerimenti alle Organizzazioni:
-|Ordine di apparizione della richiesta|Natura dell'input|Tipo di formato dell'input|Example|
-| -|---|---|---|
-|1|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata)|numero intero|60|
-|2|ID dell'Organizzazione da considerare per visualizzarne la frequenza delle azioni|numero intero|"12345055" o anche solo "5055"|
-|3|ID della tassonomia del Family Audit per analizzare la serie storica di uso nei dati|numero intero|"11630707"|
+|Natura dell'input|Tipo di formato dell'input|Example|
+|---|---|---|
+|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata)|numero intero|60|
 
 Anche in questo caso, viene prodotto un dataset che contiene la similarità tra un'azione con ogni altra azione, salvate solo se oltre una soglia della similarità del 75%. La similarità è calcolata sulle **descrizioni** che un'azienda ha fornito a due azioni, pur indicando due categorie della tassonomia differenti in esse. I titoli non erano sufficientemente informativi, a differenza dei comuni. 
 
@@ -47,7 +43,6 @@ Anche in questo caso, viene prodotto un dataset che contiene la similarità tra 
 - Di seguito, utilizzare python per eseguire il singolo script, ad es. :
 ```python SuggerimentiComuni.py```
 - Seguire le istruzioni sullo schermo in contemporanea alla lettura del codice per simulare un'interazione da linea di comando con i dati. Il codice è stato commentato appositamente. Assicurarsi di stare inserendo valori numerici quando esplicitamente richiesti e valori categoriali quando esplicitamente richiesti. 
-
 
 --- 
 🇺🇸-🏴󠁧󠁢󠁥󠁮󠁧󠁿 ENGLISH
@@ -74,20 +69,16 @@ Within each of the folders  [outputComuni](https://github.com/FluveFV/P1-Suggeri
 
 Currently, the code requires the following input that vary on the input data during execution.The input is automatically reconnected to the possible choices of variables in the dataset using the ```fuzzywuzzy``` package.
 #### Code for advising Municipalities:
-|Order of request display|Input's nature|Data type of input|Example|
-|---|---|---|---|
-|1|Upper threshold of frequency for actions to be considered (to visualize the actions used less frequently than the threshold)|integer|60|
-|2|Name of the Province to analyze|string|"Trento"|
-|3|Action / actions to consider for the analysis of their temporal series|string|("Sentieristica", "Agevolazioni tariffarie")|
+|Input's nature|Data type of input|Example|
+|---|---|---|
+|Upper threshold of frequency for actions to be considered (to visualize the actions used less frequently than the threshold)|integer|60|
 
 Ultimately, a dataset containing the similarities between each action and the remaining actions is produced. Only the similarity above a (modifiable) 75% threshold are saved. The similarity is computed on similar or identical **titles** that a Municipality has given to two actions that have different categories in the taxonomy.
 
 #### Code for advising companies:
-|Order of request display|Input's nature|Data type of input|Example|
-| -|---|---|---|
-|1|Upper threshold of frequency for actions to be considered (to visualize the actions used less frequently than the threshold)|integer|60|
-|2|ID of the Organization to consider to visualize the frequency of all the actions|integer|"12345055" or even just "5055"|
-|3|ID of the taxonomy in Family Audit to analyze its time series of usage in the data|integer|"11630707"|
+|Input's nature|Data type of input|Example|
+|---|---|---|
+|Upper threshold of frequency for actions to be considered (to visualize the actions used less frequently than the threshold)|integer|60|
 
 Even in this scenario, a dataset is produced containing the similarities between each action and the remaining actions. Only the similarity above a (modifiable) 75% threshold are saved. The similarity is computed on the identical or similar **descriptions** that a company provided to two actions, even though giving them two different taxonomical categories. Titles were not as informative as in Municipalities' data.
 
