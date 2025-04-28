@@ -28,6 +28,7 @@ Attualmente durante l'esecuzione del codice si richiedono i seguenti input che v
 
 Infine, viene prodotto un dataset che contiene la similarità tra ogni azione e tutte le altre azioni. Solo le similarità sopra una soglia del 75% (modificabile) vengono effettivamente salvate. La similarità è calcolata sui **titoli** identici o simili che il Comune ha fornito a due azioni, pur indicando due categorie della tassonomia differenti in esse. 
 
+
 #### Codice per suggerimenti alle Organizzazioni:
 |Natura dell'input|Tipo di formato dell'input|Example|
 |---|---|---|
