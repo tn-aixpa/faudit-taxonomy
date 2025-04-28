@@ -31,7 +31,7 @@ Infine, viene prodotto un dataset che contiene la similarità tra ogni azione e 
 #### Codice per suggerimenti alle Organizzazioni:
 |Natura dell'input|Tipo di formato dell'input|Example|
 |---|---|---|
-|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata)|numero intero|60|
+|Soglia massima di frequenza delle azioni da considerare (per visualizzare le azioni usate meno frequentemente della soglia impostata)|numero intero|800|
 
 Anche in questo caso, viene prodotto un dataset che contiene la similarità tra un'azione con ogni altra azione, salvate solo se oltre una soglia della similarità del 75%. La similarità è calcolata sulle **descrizioni** che un'azienda ha fornito a due azioni, pur indicando due categorie della tassonomia differenti in esse. I titoli non erano sufficientemente informativi, a differenza dei comuni. 
 
@@ -71,14 +71,14 @@ Currently, the code requires the following input that vary on the input data dur
 #### Code for advising Municipalities:
 |Input's nature|Data type of input|Example|
 |---|---|---|
-|Upper threshold of frequency for actions to be considered (to visualize the actions used less frequently than the threshold)|integer|60|
+|Upper threshold of frequency for actions to be considered (to visualize the actions used less frequently than the threshold)|integer|10|
 
 Ultimately, a dataset containing the similarities between each action and the remaining actions is produced. Only the similarity above a (modifiable) 75% threshold are saved. The similarity is computed on similar or identical **titles** that a Municipality has given to two actions that have different categories in the taxonomy.
 
 #### Code for advising companies:
 |Input's nature|Data type of input|Example|
 |---|---|---|
-|Upper threshold of frequency for actions to be considered (to visualize the actions used less frequently than the threshold)|integer|60|
+|Upper threshold of frequency for actions to be considered (to visualize the actions used less frequently than the threshold)|integer|800|
 
 Even in this scenario, a dataset is produced containing the similarities between each action and the remaining actions. Only the similarity above a (modifiable) 75% threshold are saved. The similarity is computed on the identical or similar **descriptions** that a company provided to two actions, even though giving them two different taxonomical categories. Titles were not as informative as in Municipalities' data.
 
