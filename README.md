@@ -16,7 +16,7 @@ I due script ```SuggerimentiComuni.py``` e ```SuggerimentiAziende.py``` fornisco
 - Identificazione e creazione di dati riassuntivi che identificano voci della tassonomia **diverse** utilizzate in maniera equivalente.
 
 ### Esempi di dati, input e output
-I dati sono disponibili nella cartella [data](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/). 
+I dati sono disponibili su richiesta, riservando la negazione della disponibilità.
 All'interno delle cartelle [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) e [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) è possibile visualizzare l'output previsto dallo script. 
 
 Attualmente durante l'esecuzione del codice si richiedono i seguenti input che variano in base alla disponibilità nei dati. L'input viene automaticamente ricollegato alle possibili scelte di variabili nel dataset tramite la libreria ```fuzzywuzzy```.
@@ -65,7 +65,7 @@ The two scripts ```SuggerimentiComuni.py``` and ```SuggerimentiAziende.py``` yie
 - Identification and production of summary dat that match different categories of the taxonomy based on how equivalently they are used, based on their description by the Municipality or organization. 
 
 ### Examples of data, input and output
-The input data is available in [data](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/). 
+The input data is available upon request, reserving the right to negate the request.
 Within each of the folders  [outputComuni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputComuni) and [outputOrganizzazioni](https://github.com/FluveFV/P1-SuggerimentoModificheTassonomia/tree/main/outputOrganizzazioni) it is possible to see what is expected from the code. 
 
 Currently, the code requires the following input that vary on the input data during execution.The input is automatically reconnected to the possible choices of variables in the dataset using the ```fuzzywuzzy``` package.
