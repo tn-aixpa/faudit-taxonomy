@@ -28,7 +28,7 @@ print(f'Azioni con meno di {soglia} osservazioni salvate in {fp}azioni_eliminare
 print(bassa_frequenza.head())
 
 ########################################
-# List of actions to merge  (28.97s)
+# List of actions to merge  (17s)
 # (suggerendo possibili errori, confusioni o incompletezze nella compilazione del Comune che 
 # fa uso della tassonomia)
 

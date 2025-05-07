@@ -42,7 +42,7 @@ print(bassa_frequenza.head())
     # azioni dal maggiore al minore. 
 
 ########################################
-# List of actions to merge (21)
+# List of actions to merge (21s)
 # (suggerendo possibili errori, confusioni o incompletezze nella compilazione dell'organizzazione che 
 # fa uso della tassonomia)
 
