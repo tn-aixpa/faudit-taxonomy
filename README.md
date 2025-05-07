@@ -5,6 +5,9 @@ Specifiche e contesto:
 - ```ai```: NLP
 -  ```dominio```: PA
 
+**P.S.**
+Sono già disponibili delle funzioni opzionali per questo pacchetto in [questa repo](https://github.com/FluveFV/P3-AdditionalTools.git)
+
 Implementazione di statistiche descrittive per facilitare processi decisionali sulle tassonomie di progetti Family in Italia e Family Audit. 
 Il codice è pensato per simulare un'interazione con i dati tramite linea di comando per facilitare l'adattamento a front end / interfaccia.
 
