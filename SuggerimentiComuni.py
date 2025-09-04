@@ -69,7 +69,13 @@ def taxonomy_suggestions(project, piani_comunali, tassonomia, stopwords, nomi, t
     nomi = nomi.as_df()
     spec = termini.as_df()
 
-    
+    (bassa_frequenza, summary, azioni_dividere) = main(piani_comunali, tassonomia, stop, nomi, spec, soglia, soglia_utilizzo)
+    project.log_dataitem('tassonomia_comuni_azioni_eliminare', kind="table", data=bassa_frequenza)
+    project.log_dataitem('tassonomia_comuni_azioni_unire', kind="table", data=summary)
+    project.log_dataitem('tassonomia_comuni_azioni_dividere', kind="table", data=azioni_dividere)
+
+
+def main(piani_comunali, tassonomia, stop, nomi, spec, soglia, soglia_utilizzo):    
     #######################################
     # Preparation dati Comunali (472ms)
     tassonomia = pd.merge(piani_comunali.ID_tassonomia.value_counts().reset_index().rename(columns={'count':'Frequenza delle azioni'}), tassonomia)
@@ -80,7 +86,6 @@ def taxonomy_suggestions(project, piani_comunali, tassonomia, stopwords, nomi, t
     
     bassa_frequenza = tassonomia[tassonomia['Frequenza delle azioni'] <= soglia]
     bassa_frequenza.to_csv(f'azioni_eliminare.csv', sep=';', index=False)
-    project.log_dataitem('tassonomia_comuni_azioni_eliminare', kind="table", data=bassa_frequenza)
     
     ########################################
     # List of actions to merge  (17s)
@@ -176,16 +181,13 @@ def taxonomy_suggestions(project, piani_comunali, tassonomia, stopwords, nomi, t
     summary = summary.rename(columns={'count':'Frequenza'})
     summary = summary.sort_values(by='Frequenza',ascending=False)
     summary.to_csv(f'azioni_unire.csv', sep=';', index=False)
-
-    project.log_dataitem('tassonomia_comuni_azioni_unire', kind="table", data=summary)
-    
     print(f'Azioni somiglianti ma che hanno diverse voci nella tassonomia salvata in azioni_unire.csv')
     
     ########################################
     # List of actions to "create", or actually split into smaller categories due to high frequency of use
     # asking: Select a lower threshold for the frequencies of rarely used actions 
-    bassa_frequenza = tassonomia[tassonomia['Frequenza delle azioni'] >= soglia_utilizzo]
-    bassa_frequenza.to_csv(f'azioni_da_dividere.csv', sep=';', index=False)
+    azioni_dividere = tassonomia[tassonomia['Frequenza delle azioni'] >= soglia_utilizzo]
+    azioni_dividere.to_csv(f'azioni_da_dividere.csv', sep=';', index=False)
     print(f'Azioni con più di {soglia} osservazioni salvate in azioni_dividere.csv')
-    project.log_dataitem('tassonomia_comuni_azioni_dividere', kind="table", data=bassa_frequenza)
     
+    return (bassa_frequenza, summary, azioni_dividere)
