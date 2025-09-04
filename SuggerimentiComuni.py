@@ -62,20 +62,19 @@ def ascificatore(s):
 # Title (Execution time in local CPU)
     # specific comment
 
-def taxonomy_suggestions(project, piani_comunali, tassonomia, stopwords, nomi, termini, soglia=3, soglia_utilizzo=10):
+def taxonomy_suggestions(project, piani_comunali, tassonomia, stopwords, nomi, termini):
     piani_comunali = piani_comunali.as_df()
     tassonomia = tassonomia.as_df()
     stop = stopwords.as_df()
     nomi = nomi.as_df()
     spec = termini.as_df()
 
-    (bassa_frequenza, summary, azioni_dividere) = main(piani_comunali, tassonomia, stop, nomi, spec, soglia, soglia_utilizzo)
-    project.log_dataitem('tassonomia_comuni_azioni_eliminare', kind="table", data=bassa_frequenza)
+    (frequenza, summary) = main(piani_comunali, tassonomia, stop, nomi, spec)
+    project.log_dataitem('tassonomia_comuni_azioni_frequenza', kind="table", data=frequenza)
     project.log_dataitem('tassonomia_comuni_azioni_unire', kind="table", data=summary)
-    project.log_dataitem('tassonomia_comuni_azioni_dividere', kind="table", data=azioni_dividere)
 
 
-def main(piani_comunali, tassonomia, stop, nomi, spec, soglia, soglia_utilizzo):    
+def main(piani_comunali, tassonomia, stop, nomi, spec):    
     #######################################
     # Preparation dati Comunali (472ms)
     tassonomia = pd.merge(piani_comunali.ID_tassonomia.value_counts().reset_index().rename(columns={'count':'Frequenza delle azioni'}), tassonomia)
@@ -84,8 +83,8 @@ def main(piani_comunali, tassonomia, stop, nomi, spec, soglia, soglia_utilizzo):
     # List of actions to eliminate (low frequency) (8ms)
     # asking: Select an upper threshold for the frequencies of rarely used actions 
     
-    bassa_frequenza = tassonomia[tassonomia['Frequenza delle azioni'] <= soglia]
-    bassa_frequenza.to_csv(f'azioni_eliminare.csv', sep=';', index=False)
+    frequenza = tassonomia # [tassonomia['Frequenza delle azioni'] <= soglia]
+    # bassa_frequenza.to_csv(f'azioni_eliminare.csv', sep=';', index=False)
     
     ########################################
     # List of actions to merge  (17s)
@@ -186,8 +185,8 @@ def main(piani_comunali, tassonomia, stop, nomi, spec, soglia, soglia_utilizzo):
     ########################################
     # List of actions to "create", or actually split into smaller categories due to high frequency of use
     # asking: Select a lower threshold for the frequencies of rarely used actions 
-    azioni_dividere = tassonomia[tassonomia['Frequenza delle azioni'] >= soglia_utilizzo]
-    azioni_dividere.to_csv(f'azioni_da_dividere.csv', sep=';', index=False)
-    print(f'Azioni con più di {soglia} osservazioni salvate in azioni_dividere.csv')
+    # azioni_dividere = tassonomia[tassonomia['Frequenza delle azioni'] >= soglia_utilizzo]
+    # azioni_dividere.to_csv(f'azioni_da_dividere.csv', sep=';', index=False)
+    # print(f'Azioni con più di {soglia} osservazioni salvate in azioni_dividere.csv')
     
-    return (bassa_frequenza, summary, azioni_dividere)
+    return (frequenza, summary)
