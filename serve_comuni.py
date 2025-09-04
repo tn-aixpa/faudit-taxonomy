@@ -17,7 +17,7 @@ def serve(context, event):
     path = event.path
 
     if "to_delete" in path:
-        soglia = event.fields["frequency_threshold"] if "frequency_threshold" in event.fields else 3
+        soglia = int(event.fields["frequency_threshold"]) if "frequency_threshold" in event.fields else 3
         tassonomia = context.azioni_frequenza
         azioni_eliminare = tassonomia[tassonomia['Frequenza delle azioni'] <= soglia].rename(columns={'Frequenza delle azioni': 'frequency', 'ID_tassonomia': 'id'})[['id', 'frequency']]
         response = nuclio_sdk.Response()
@@ -27,7 +27,7 @@ def serve(context, event):
         return response
 
     if "to_split" in path:
-        soglia = event.fields["frequency_threshold"] if "frequency_threshold" in event.fields else 100
+        soglia = int(event.fields["frequency_threshold"]) if "frequency_threshold" in event.fields else 100
         tassonomia = context.azioni_frequenza
         azioni_dividere = tassonomia[tassonomia['Frequenza delle azioni'] >= soglia].rename(columns={'Frequenza delle azioni': 'frequency', 'ID_tassonomia': 'id'})[['id', 'frequency']]
         response = nuclio_sdk.Response()
