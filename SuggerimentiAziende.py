@@ -143,7 +143,7 @@ def main(piani_aziendali,tassonomia, stop, nomi, spec):
                     
                     res = process.extractOne(a2, choices2, scorer=fuzz.token_set_ratio)                    
                     
-                    if res[1] < 75: 
+                    if res is None or res[1] < 75: 
                         continue
                         
                     ID_tassonomia_1.append(first)                
@@ -170,7 +170,7 @@ def main(piani_aziendali,tassonomia, stop, nomi, spec):
         .agg(count=('descrizione_1', 'count'),
              descrizione_1_list=('descrizione_1', lambda x: x if isinstance(x, str) else ' | '.join(x).replace('\n', ' ')),         
              descrizione_2_list=('descrizione_2', lambda x: x if isinstance(x, str) else ' | '.join(x).replace('\n', ' ')),         
-             Percentuale_di_similarità=('Levenshtein', lambda x: list(x))
+             Percentuale_di_similarità=('Levenshtein', lambda x: np.nanmean(list(x)))
         )
         .reset_index()
     )

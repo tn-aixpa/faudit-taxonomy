@@ -22,7 +22,7 @@ def serve(context, event):
         azioni_eliminare = tassonomia[tassonomia['Frequenza delle azioni'] <= soglia].rename(columns={'Frequenza delle azioni': 'frequency', 'ID_tassonomia': 'id'})[['id', 'frequency']]
         response = nuclio_sdk.Response()
         response.status_code = 200
-        response.body = azioni_eliminare.to_dict("records")
+        response.body = json.dumps(azioni_eliminare.to_dict("records"))
         response.content_type='application/json'
         return response
 
@@ -32,15 +32,18 @@ def serve(context, event):
         azioni_dividere = tassonomia[tassonomia['Frequenza delle azioni'] >= soglia].rename(columns={'Frequenza delle azioni': 'frequency', 'ID_tassonomia': 'id'})[['id', 'frequency']]
         response = nuclio_sdk.Response()
         response.status_code = 200
-        response.body = azioni_dividere.to_dict("records")
+        response.body = json.dumps(azioni_dividere.to_dict("records"))
         response.content_type='application/json'
         return response
 
     if "to_merge" in path:
         summary = context.azioni_unire.rename(columns={'ID_tassonomia_1': 'id1', 'ID_tassonomia_2': 'id2', 'titoli_1_list': 'actions1', 'titoli_2_list': 'actions2', 'Percentuale_di_similarità': 'similarity'})[['id1', 'id2', 'actions1', 'actions2', 'similarity']]
+        summary['actions1'] = summary['actions1'].map(lambda x: [s.strip() for s in x.split('|')])
+        summary['actions2'] = summary['actions2'].map(lambda x: [s.strip() for s in x.split('|')])
+
         response = nuclio_sdk.Response()
         response.status_code = 200
-        response.body = summary.to_dict("records")
+        response.body = json.dumps(summary.to_dict("records"))
         response.content_type='application/json'
         return response
         

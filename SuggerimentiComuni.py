@@ -172,7 +172,7 @@ def main(piani_comunali, tassonomia, stop, nomi, spec):
         .agg(count=('titolo_1', 'count'),
              titoli_1_list=('titolo_1', lambda x: x if isinstance(x, str) else ' | '.join(x).replace('\n', ' ') ),
              titoli_2_list=('titolo_2', lambda x: x if isinstance(x, str) else ' | '.join(x).replace('\n', ' ') ),
-             Percentuale_di_similarità=('Levenshtein', lambda x: list(x))    
+             Percentuale_di_similarità=('Levenshtein', lambda x: np.nanmean(list(x)))    
         )
         .reset_index()
     )
