@@ -13,11 +13,9 @@ Modificando parametri quali il numero di classi richiesto, o il testo utilizzato
   <img src="img/tassonomia.png" alt="Diagramma" width="480">
 </p>
 
-## Output 2: tassonomia per macro-categorie
+## Output 2: tassonomia (macro categorie e sottocategorie)
 Il raggruppamento per macro cagorie ha identificato le seguenti aree. Modificando la soglia a cui si "taglia" la tassonomia, si potranno ottenere diversi livelli di granularità.
-
-## Tassonomia (macro categorie e sottocategorie)
-
+ 
 > Clicca una macro categoria per espandere le relative sottocategorie.
 
 <details>
