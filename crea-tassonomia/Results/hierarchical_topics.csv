@@ -1,0 +1,99 @@
+,Parent_ID,Parent_Name,Topics,Child_Left_ID,Child_Left_Name,Child_Right_ID,Child_Right_Name,Distance
+97,196,titolo_descrizione_comune_famiglie_bambini,"[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]",144,titolo_descrizione_bambini_biblioteca_comune,195,descrizione_titolo_violenza_comune_servizio,1.649596810226579
+96,195,descrizione_titolo_violenza_comune_servizio,"[7, 11, 13, 14, 16, 17, 18, 19, 20, 21, 22, 24, 25, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 58, 59, 60, 61, 62, 63, 64, 65, 66, 67, 68, 69, 70, 71, 72, 73, 74, 75, 76, 77, 78, 79, 80, 81, 82, 83, 84, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 97, 98]",193,nido_asilo_pannolini_nati_benvenuto,194,descrizione_titolo_violenza_family_donne,1.5047163515875348
+95,194,descrizione_titolo_violenza_family_donne,"[7, 11, 13, 17, 19, 20, 21, 22, 24, 25, 27, 29, 30, 31, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49, 50, 51, 53, 54, 56, 58, 59, 60, 61, 62, 63, 64, 65, 66, 68, 69, 70, 71, 72, 73, 75, 76, 77, 79, 80, 81, 82, 85, 86, 87, 88, 89, 90, 91, 92, 93, 94, 95, 96, 98]",192,descrizione_titolo_violenza_donne_genere,171,pagina_facebook_sito_telegram_web,1.4066821846990607
+94,193,nido_asilo_pannolini_nati_benvenuto,"[14, 16, 18, 28, 32, 48, 52, 55, 57, 67, 74, 78, 83, 84, 97]",187,asilo_nido_tagesmutter_servizio_convenzione,181,pannolini_nati_benvenuto_rifiuti_nuovi,1.3500728437474343
+93,192,descrizione_titolo_violenza_donne_genere,"[7, 11, 13, 17, 19, 20, 21, 22, 24, 25, 27, 29, 30, 31, 33, 34, 35, 36, 38, 39, 40, 41, 42, 43, 44, 45, 46, 47, 49, 50, 51, 53, 54, 56, 58, 59, 60, 61, 62, 63, 64, 65, 66, 68, 70, 71, 72, 73, 75, 76, 79, 80, 81, 82, 86, 87, 88, 89, 90, 91, 93, 94, 95, 96, 98]",186,persone_legna_anziani_intervento_19,191,violenza_descrizione_titolo_genere_donne,1.306625342782895
+92,191,violenza_descrizione_titolo_genere_donne,"[7, 11, 13, 20, 21, 22, 24, 25, 29, 30, 31, 33, 34, 35, 36, 38, 40, 41, 42, 43, 45, 46, 47, 49, 50, 51, 53, 54, 58, 59, 60, 61, 62, 63, 64, 65, 66, 68, 70, 71, 72, 73, 76, 80, 82, 86, 87, 88, 89, 90, 93, 94, 95, 96, 98]",190,violenza_genere_donne_giornata_ambientale,189,parcheggi_family_rosa_uffici_descrizione,1.2633600893795234
+91,190,violenza_genere_donne_giornata_ambientale,"[7, 13, 22, 24, 30, 31, 34, 35, 36, 38, 41, 61, 62, 71, 94]",159,violenza_genere_donne_prevenzione_sensibilizzazione,183,ambientale_ecologica_giornata_ambiente_emas,1.2320686257687956
+90,189,parcheggi_family_rosa_uffici_descrizione,"[11, 20, 21, 25, 29, 33, 40, 42, 43, 45, 46, 47, 49, 50, 51, 53, 54, 58, 59, 60, 63, 64, 65, 66, 68, 70, 72, 73, 76, 80, 82, 86, 87, 88, 89, 90, 93, 95, 96, 98]",188,parcheggi_rosa_uffici_baby_apertura,149,family_audit_standard_marchio_certificazioni,1.2182085357273746
+89,188,parcheggi_rosa_uffici_baby_apertura,"[11, 20, 25, 29, 40, 42, 43, 45, 46, 47, 49, 50, 51, 53, 54, 58, 59, 60, 63, 64, 66, 68, 70, 72, 73, 76, 80, 82, 86, 87, 88, 89, 90, 93, 95, 98]",180,sci_levico_ski_piscina_pass,185,parcheggi_rosa_uffici_baby_apertura,1.2068284198862318
+88,187,asilo_nido_tagesmutter_servizio_convenzione,"[14, 32, 48, 55, 57, 78, 83]",176,asilo_nido_convenzione_conciliazione_servizio,99,tagesmutter_servizio_contributo_icef_nido,1.2058016522952744
+87,186,persone_legna_anziani_intervento_19,"[17, 19, 27, 39, 44, 56, 75, 79, 81, 91]",182,persone_legna_anziani_intervento_19,106,ambulatorio_pediatrico_medico_medici_ambulatori,1.1922156394023373
+86,185,parcheggi_rosa_uffici_baby_apertura,"[11, 20, 25, 29, 40, 42, 43, 45, 46, 49, 50, 51, 53, 54, 58, 59, 63, 64, 68, 70, 72, 73, 80, 82, 88, 90, 95, 98]",184,parcheggi_rosa_uffici_baby_apertura,153,studenti_meritevoli_stage_studio_borse,1.1811021158481012
+85,184,parcheggi_rosa_uffici_baby_apertura,"[11, 20, 25, 29, 40, 42, 43, 45, 46, 49, 50, 51, 58, 59, 63, 64, 68, 70, 72, 73, 80, 82, 88, 95, 98]",179,parcheggi_rosa_uffici_baby_apertura,178,terza_universitа_laboratori_creativi_natale,1.1391481120002418
+84,183,ambientale_ecologica_giornata_ambiente_emas,"[13, 22, 30, 31, 34, 35, 38, 41, 71, 94]",160,ambientale_ecologica_giornata_ambiente_alberi,166,emas_certificazione_videosorveglianza_ambientale_ambientali,1.1252957527181675
+83,182,persone_legna_anziani_intervento_19,"[17, 19, 27, 44, 75, 79, 81, 91]",157,legna_alloggi_ardere_casa_imis,169,persone_intervento_anziani_19_lavori,1.1170939970139584
+82,181,pannolini_nati_benvenuto_rifiuti_nuovi,"[16, 18, 28, 52, 67, 74, 84, 97]",139,pannolini_rifiuti_tariffa_lavabili_tariffe,172,nati_benvenuto_nuovi_kit_figlio,1.1141265926888957
+81,180,sci_levico_ski_piscina_pass,"[47, 60, 66, 76, 86, 87, 89, 93]",175,sci_ski_piscina_pass_ginnastica,133,levico_terme_da_ripropone_alleggerire,1.1013820255006197
+80,179,parcheggi_rosa_uffici_baby_apertura,"[11, 20, 25, 29, 42, 43, 64, 95]",164,parcheggi_rosa_baby_parcheggio_fasciatoio,173,uffici_apertura_orario_comunali_orari,1.0791326650829527
+79,178,terza_universitа_laboratori_creativi_natale,"[40, 45, 46, 49, 50, 51, 58, 59, 63, 68, 70, 72, 73, 80, 82, 88, 98]",177,terza_universitа_etа_illumino_lingua,147,creativi_laboratori_natale_ecomuseo_babbo,1.0753931461551887
+78,177,terza_universitа_etа_illumino_lingua,"[40, 46, 49, 50, 58, 59, 63, 68, 72, 73, 80, 82, 88, 98]",168,lingua_madrelingua_cre_inglese_lingue,174,terza_universitа_illumino_etа_alimentare,1.0674551172559656
+77,176,asilo_nido_convenzione_conciliazione_servizio,"[14, 48, 55, 57, 78]",151,conciliazione_animazione_estivo_tempi_asilo,100,asilo_nido_convenzione_servizio_infanzia,1.0626606503832123
+76,175,sci_ski_piscina_pass_ginnastica,"[47, 60, 66, 86, 87, 89]",158,sci_ski_pass_ginnastica_yoga,146,piscina_tariffe_malи_tennis_agevolate,1.051727487271754
+75,174,terza_universitа_illumino_etа_alimentare,"[40, 46, 49, 58, 59, 68, 72, 73, 82, 88, 98]",170,alimentare_raccolta_caritas_spreco_solidale,167,terza_universitа_illumino_etа_disponibile,1.0477329878492403
+74,173,uffici_apertura_orario_comunali_orari,"[20, 29, 42, 43, 64]",148,wifi_digitale_internet_free_tecnologie,129,uffici_apertura_orario_comunali_orari,1.041935314500438
+73,172,nati_benvenuto_nuovi_kit_figlio,"[16, 52, 67, 74, 84]",154,nati_benvenuto_nuovi_kit_nato,123,bonus_bebи_gas_elettrica_energia,1.0405893020991426
+72,171,pagina_facebook_sito_telegram_web,"[37, 69, 77, 85, 92]",130,telegram_whatsapp_sms_facebook_canale,109,pagina_sito_web_facebook_dedicata,1.0243192474927425
+71,170,alimentare_raccolta_caritas_spreco_solidale,"[46, 73, 82, 88]",152,alimentare_caritas_spreco_solidale_alimentari,161,conferimento_persona_integrati_raccolta_rifiuti,1.0207202607623813
+70,169,persone_intervento_anziani_19_lavori,"[17, 27, 44, 79, 91]",138,persone_intervento_anziani_lavori_socialmente,135,covid_prenotazione_resta_19_passo,1.0033698800115027
+69,168,lingua_madrelingua_cre_inglese_lingue,"[50, 63, 80]",80,cre_estivi_parrocchie_importanti_impegnate,131,lingua_madrelingua_inglese_lingue_tedesco,0.9967498779211714
+68,167,terza_universitа_illumino_etа_disponibile,"[40, 49, 58, 59, 68, 72, 98]",163,festival_paganella_intergenerazionale_scambio_andalo,165,terza_universitа_illumino_etа_disponibile,0.991560040902627
+67,166,emas_certificazione_videosorveglianza_ambientale_ambientali,"[41, 71, 94]",128,emas_certificazione_ambientale_ambientali_regolamento,71,videosorveglianza_telecamere_video_sistema_varchi,0.979930568447289
+66,165,terza_universitа_illumino_etа_disponibile,"[40, 49, 59]",162,terza_universitа_etа_disponibile_annuale,59,illumino_meno_energetico_risparmio_campagna,0.9795247490687642
+65,164,parcheggi_rosa_baby_parcheggio_fasciatoio,"[11, 25, 95]",95,aziende_attivano_aziendali_sitter_flessibili,142,parcheggi_rosa_baby_parcheggio_fasciatoio,0.9723942301168935
+64,163,festival_paganella_intergenerazionale_scambio_andalo,"[58, 68, 72, 98]",98,compiti_limiti_attivati_realtа_attualmente,155,festival_paganella_intergenerazionale_scambio_andalo,0.9699596535928015
+63,162,terza_universitа_etа_disponibile_annuale,"[40, 49]",40,terza_universitа_etа_disponibile_tempo,49,autovalutazione_annuale_piano_documento_monitorare,0.9633014687150002
+62,161,conferimento_persona_integrati_raccolta_rifiuti,"[73, 82]",73,conferimento_raccolta_rifiuti_conferire_parentela,82,integrati_concorrere_globale_biblioteche_progetti,0.9440869894592117
+61,160,ambientale_ecologica_giornata_ambiente_alberi,"[13, 22, 30, 31, 34, 35, 38]",119,passeggiate_sentieri_percorso_mappatura_percorsi,156,ambientale_ecologica_giornata_ambiente_alberi,0.9416959791156951
+60,159,violenza_genere_donne_prevenzione_sensibilizzazione,"[7, 24, 36, 61, 62]",143,azzardo_dipendenze_ludopatia_gioco_contrasto,115,violenza_genere_donne_prevenzione_donna,0.9373309357410906
+59,158,sci_ski_pass_ginnastica_yoga,"[47, 60, 87]",87,yoga_ginnastica_pratiche_karate_buone,134,sci_ski_pass_palestra_agevolato,0.9370319473638468
+58,157,legna_alloggi_ardere_casa_imis,"[19, 75, 81]",81,ucraina_profughi_ucraini_alloggi_emergenza,118,legna_alloggi_ardere_casa_imis,0.9353360578709777
+57,156,ambientale_ecologica_giornata_ambiente_alberi,"[13, 22, 30, 31, 38]",113,ecologica_ambientale_giornata_alberi_ambiente,141,mobilitа_stradale_sicurezza_orti_ricarica,0.9351420062327319
+56,155,festival_paganella_intergenerazionale_scambio_andalo,"[58, 68, 72]",150,paganella_intergenerazionale_scambio_altropiano_giovani,68,festival_gioco_alpe_orme_edizione,0.9334391006083884
+55,154,nati_benvenuto_nuovi_kit_nato,"[16, 52, 67]",67,gratis_pannolini_lombardia_nidi_regione,110,benvenuto_nati_nuovi_kit_nato,0.9280334522120538
+54,153,studenti_meritevoli_stage_studio_borse,"[53, 54, 90]",125,stage_studenti_madonna_stagisti_campiglio,53,meritevoli_borse_studio_studenti_premi,0.9255874064675542
+53,152,alimentare_caritas_spreco_solidale_alimentari,"[46, 88]",88,caritas_situazioni_decanale_bisognose_assistendo,46,alimentare_spreco_solidale_alimentari_primiero,0.9247838274687576
+52,151,conciliazione_animazione_estivo_tempi_asilo,"[48, 55, 57]",48,animazione_animatori_bambini_occupare_divertente,116,conciliazione_estivo_tempi_asilo_lavoro,0.9167039155819119
+51,150,paganella_intergenerazionale_scambio_altropiano_giovani,"[58, 72]",72,intergenerazionale_scambio_generazioni_pensionati_anziani,58,paganella_altropiano_andalo_giovani_piano,0.9166112072410195
+50,149,family_audit_standard_marchio_certificazioni,"[21, 33, 65, 96]",145,family_audit_marchio_standard_certificazioni,65,card_family_pubblicizza_vantaggi_tramite,0.9123173620368061
+49,148,wifi_digitale_internet_free_tecnologie,"[29, 42, 64]",42,wifi_free_wi_fi_internet,120,digitale_tecnologie_digitali_internet_media,0.9115642965343268
+48,147,creativi_laboratori_natale_ecomuseo_babbo,"[45, 51, 70]",136,creativi_natale_laboratori_babbo_natalizio,70,ecomuseo_turistico_borlezza_laboratori_viaggiatori,0.9055964525028356
+47,146,piscina_tariffe_malи_tennis_agevolate,"[66, 86, 89]",66,piscina_banale_lorenzo_nuoto_convenzionati,140,tennis_fiemme_acquacenter_sgs_stadio,0.9014479218096714
+46,145,family_audit_marchio_standard_certificazioni,"[21, 33, 96]",33,standard_accordo_effettive_adeguare_prioritario,121,family_audit_marchio_certificazioni_premianti,0.8952354702144985
+45,144,titolo_descrizione_bambini_biblioteca_comune,"[0, 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 23, 26]",126,biblioteca_giochi_lettura_parco_sport,137,giovani_famiglia_comune_famiglie_piano,0.8915785372608848
+44,143,azzardo_dipendenze_ludopatia_gioco_contrasto,"[24, 61, 62]",62,bullismo_cyberbullismo_educazione_fenomeno_tema,124,azzardo_dipendenze_ludopatia_gioco_slot,0.8873789954913471
+43,142,parcheggi_rosa_baby_parcheggio_fasciatoio,"[11, 25]",25,baby_home_little_pit_stop,11,parcheggi_rosa_parcheggio_gravidanza_fasciatoio,0.8727485073070828
+42,141,mobilitа_stradale_sicurezza_orti_ricarica,"[22, 31, 38]",132,mobilitа_stradale_sicurezza_ricarica_bike,31,orti_urbanistica_pianificazione_terreno_orto,0.8715502526561119
+41,140,tennis_fiemme_acquacenter_sgs_stadio,"[86, 89]",89,fiemme_acquacenter_sgs_iscrizione_molina,86,tennis_calcetto_campi_comprendente_campo,0.8689603339557463
+40,139,pannolini_rifiuti_tariffa_lavabili_tariffe,"[18, 28, 97]",97,ta_ri_utilizzate_fini_comma,103,pannolini_rifiuti_tariffa_lavabili_agevolazioni,0.8565548232424676
+39,138,persone_intervento_anziani_lavori_socialmente,"[17, 27, 44]",44,disabilitа_disabili_persone_indipendente_autismo,108,persone_intervento_anziani_lavori_socialmente,0.8476229462347303
+38,137,giovani_famiglia_comune_famiglie_piano,"[2, 3, 4, 5, 8, 9, 10, 23, 26]",114,giovani_famiglia_comune_piano_distretto,127,servizio_scuole_scuola_infanzia_scolastico,0.8447004414664492
+37,136,creativi_natale_laboratori_babbo_natalizio,"[45, 51]",51,natale_babbo_natalizio_eventi_pasqua,45,creativi_laboratori_laboratorio_burro_bambini,0.8445331550613333
+36,135,covid_prenotazione_resta_19_passo,"[79, 91]",79,resta_passo_emergenza_casa_covid,91,covid_prenotazione_vaccino_vaccinazione_vaccinale,0.8217787897294492
+35,134,sci_ski_pass_palestra_agevolato,"[47, 60]",60,sci_ginnastica_palestra_coste_bolbeno,47,ski_pass_sci_agevolato_stagionale,0.8196227731000767
+34,133,levico_terme_da_ripropone_alleggerire,"[76, 93]",93,alleggerire_stabilire_visite_minori_benne,76,levico_terme_da_ripropone_pomeriggi,0.8171507401790383
+33,132,mobilitа_stradale_sicurezza_ricarica_bike,"[22, 38]",38,ricarica_bike_colonnine_mobilitа_elettriche,22,stradale_sicurezza_pedibus_strade_attraversamenti,0.8154551072910294
+32,131,lingua_madrelingua_inglese_lingue_tedesco,"[50, 63]",63,straniere_integrazione_stranieri_italiana_corsi,50,lingua_madrelingua_inglese_tedesco_lingue,0.8121985122804711
+31,130,telegram_whatsapp_sms_facebook_canale,"[69, 77, 92]",122,telegram_sms_canale_social_implementazione,77,whatsapp_facebook_tasca_notizie_segnalare,0.8115576938003984
+30,129,uffici_apertura_orario_comunali_orari,"[20, 43]",43,suggerimenti_cassetta_reclami_ascolto_sportello,20,uffici_apertura_orario_comunali_orari,0.8099687021189339
+29,128,emas_certificazione_ambientale_ambientali_regolamento,"[41, 94]",41,emas_certificazione_ambientali_ambientale_sistema,94,regolamenti_camini_regolamento_fumarie_canne,0.8069205953042644
+28,127,servizio_scuole_scuola_infanzia_scolastico,"[8, 23, 26]",26,civile_universale_cittadinanza_scup_progetti,105,scuole_servizio_scuola_infanzia_scolastico,0.8060207281509334
+27,126,biblioteca_giochi_lettura_parco_sport,"[0, 1, 6, 12, 15]",107,giochi_parco_sport_sportive_parchi,117,biblioteca_lettura_libri_teatro_leggere,0.8041193835595947
+26,125,stage_studenti_madonna_stagisti_campiglio,"[54, 90]",54,stage_madonna_campiglio_pinzolo_studenti,90,stagisti_tirocinanti_studenti_accoglienza_superiori,0.7984002841544433
+25,124,azzardo_dipendenze_ludopatia_gioco_slot,"[24, 61]",24,azzardo_dipendenze_gioco_ludopatia_slot,61,laghi_valle_chiamo_comuni_ludopatia,0.7930139167580026
+24,123,bonus_bebи_gas_elettrica_energia,"[74, 84]",74,bonus_bebи_nascita_buono_figlio,84,gas_elettrica_bonus_energia_naturale,0.7758046755641852
+23,122,telegram_sms_canale_social_implementazione,"[69, 92]",92,implementazione_social_quant_gruppi_reale,69,telegram_sms_canale_riguardano_comunicazioni,0.7724162273912891
+22,121,family_audit_marchio_certificazioni_premianti,"[21, 96]",21,family_audit_certificazioni_premianti_certificazione,96,serata_marchio_informativa_ricadute_significato,0.7720279290701332
+21,120,digitale_tecnologie_digitali_internet_media,"[29, 64]",64,internet_mlol_accesso_ebook_biblioteca,29,digitale_tecnologie_digitali_informatica_media,0.7576776387551865
+20,119,passeggiate_sentieri_percorso_mappatura_percorsi,"[34, 35]",34,passeggiate_sentieri_mappatura_family_percorsi,35,percorso_sentiero_sentieri_ripristino_sentieristica,0.7370746536373842
+19,118,legna_alloggi_ardere_casa_imis,"[19, 75]",19,legna_alloggi_ardere_casa_edilizia,75,imis_comodato_parenti_residenza_estende,0.7283809880627072
+18,117,biblioteca_lettura_libri_teatro_leggere,"[1, 6, 12]",112,teatro_musicale_musica_teatrale_spettacoli,1,biblioteca_lettura_libri_leggere_nati,0.7216935867073684
+17,116,conciliazione_estivo_tempi_asilo_lavoro,"[55, 57]",57,estivo_asilo_calendarizzazione_custodia_efficace,55,conciliazione_lavoro_tempi_dipendenti_vita,0.7063335243128809
+16,115,violenza_genere_donne_prevenzione_donna,"[7, 36]",7,violenza_genere_donne_donna_sensibilizzazione,36,salute_prevenzione_lilt_tumori_rosa,0.703804910407325
+15,114,giovani_famiglia_comune_piano_distretto,"[2, 3, 4, 5, 9, 10]",111,giovani_piano_comune_anni_genitori,101,famiglia_distretto_family_famiglie_politiche,0.7033757888699468
+14,113,ecologica_ambientale_giornata_alberi_ambiente,"[13, 30]",30,alberi_festa_bosco_forestale_orto,13,ecologica_ambientale_giornata_ambiente_rifiuti,0.6975641882944019
+13,112,teatro_musicale_musica_teatrale_spettacoli,"[6, 12]",6,teatro_musicale_musica_teatrale_spettacoli,12,culturali_turismo_museo_culturale_storico,0.6689149369038088
+12,111,giovani_piano_comune_anni_genitori,"[2, 4, 9, 10]",9,genitori_genitorialitа_formazione_figli_incontri,104,giovani_piano_comune_anni_00,0.6657157266804266
+11,110,benvenuto_nati_nuovi_kit_nato,"[16, 52]",16,benvenuto_nati_nuovi_kit_nato,52,figlio_contributo_acquisto_spendibile_nati,0.6599360837538082
+10,109,pagina_sito_web_facebook_dedicata,"[37, 85]",37,sito_facebook_pagina_web_internet,85,pagina_dedicata_spiegare_intraprese_web,0.6589140059700034
+9,108,persone_intervento_anziani_lavori_socialmente,"[17, 27]",17,anziani_persone_anziane_domicilio_sociale,27,lavori_intervento_socialmente_utili_occupazione,0.6259466464110652
+8,107,giochi_parco_sport_sportive_parchi,"[0, 15]",0,giochi_parco_sport_parchi_sportive,15,associazioni_sale_comunali_gratuito_culturali,0.6206593114536947
+7,106,ambulatorio_pediatrico_medico_medici_ambulatori,"[39, 56]",56,medici_multiservizi_farmacia_farmacie_medico,39,ambulatorio_pediatrico_medico_ambulatori_medici,0.6064148993886207
+6,105,scuole_servizio_scuola_infanzia_scolastico,"[8, 23]",8,scuole_alternanza_studenti_scuola_scolastico,23,nido_servizio_infanzia_anticipo_posti,0.5987904253241414
+5,104,giovani_piano_comune_anni_00,"[2, 4, 10]",102,00_comune_euro_contributo_comunale,4,piano_giovani_zona_estivo_ragazzi,0.5689260726978198
+4,103,pannolini_rifiuti_tariffa_lavabili_agevolazioni,"[18, 28]",28,tariffe_tariffa_agevolazioni_tariffarie_rifiuti,18,pannolini_lavabili_rifiuti_tariffa_smaltimento,0.5463106733821761
+3,102,00_comune_euro_contributo_comunale,"[2, 10]",10,diciottenni_cerimonia_incontro_costituzione_giovani,2,euro_00_comune_contributo_colonia,0.5382450303294739
+2,101,famiglia_distretto_family_famiglie_politiche,"[3, 5]",5,distretto_famiglia_valle_descrizione_titolo,3,famiglia_family_famiglie_distretto_politiche,0.5138202368889316
+1,100,asilo_nido_convenzione_servizio_infanzia,"[14, 78]",14,asilo_nido_convenzione_servizio_infanzia,78,asilo_nido_tariffe_riduzione_icef,0.4939202250455462
+0,99,tagesmutter_servizio_contributo_icef_nido,"[32, 83]",32,tagesmutter_contributo_servizio_icef_nido,83,tagesmutter_mantenimento_sorriso_servizio_riattivato,0.3463195514039561

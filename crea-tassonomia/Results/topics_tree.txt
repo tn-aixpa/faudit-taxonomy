@@ -1,0 +1,197 @@
+.
+├─titolo_descrizione_bambini_biblioteca_comune
+│    ├─biblioteca_giochi_lettura_parco_sport
+│    │    ├─giochi_parco_sport_sportive_parchi
+│    │    │    ├─■──giochi_parco_sport_parchi_sportive ── Topic: 0
+│    │    │    └─■──associazioni_sale_comunali_gratuito_culturali ── Topic: 15
+│    │    └─biblioteca_lettura_libri_teatro_leggere
+│    │         ├─teatro_musicale_musica_teatrale_spettacoli
+│    │         │    ├─■──teatro_musicale_musica_teatrale_spettacoli ── Topic: 6
+│    │         │    └─■──culturali_turismo_museo_culturale_storico ── Topic: 12
+│    │         └─■──biblioteca_lettura_libri_leggere_nati ── Topic: 1
+│    └─giovani_famiglia_comune_famiglie_piano
+│         ├─giovani_famiglia_comune_piano_distretto
+│         │    ├─giovani_piano_comune_anni_genitori
+│         │    │    ├─■──genitori_genitorialitа_formazione_figli_incontri ── Topic: 9
+│         │    │    └─giovani_piano_comune_anni_00
+│         │    │         ├─00_comune_euro_contributo_comunale
+│         │    │         │    ├─■──diciottenni_cerimonia_incontro_costituzione_giovani ── Topic: 10
+│         │    │         │    └─■──euro_00_comune_contributo_colonia ── Topic: 2
+│         │    │         └─■──piano_giovani_zona_estivo_ragazzi ── Topic: 4
+│         │    └─famiglia_distretto_family_famiglie_politiche
+│         │         ├─■──distretto_famiglia_valle_descrizione_titolo ── Topic: 5
+│         │         └─■──famiglia_family_famiglie_distretto_politiche ── Topic: 3
+│         └─servizio_scuole_scuola_infanzia_scolastico
+│              ├─■──civile_universale_cittadinanza_scup_progetti ── Topic: 26
+│              └─scuole_servizio_scuola_infanzia_scolastico
+│                   ├─■──scuole_alternanza_studenti_scuola_scolastico ── Topic: 8
+│                   └─■──nido_servizio_infanzia_anticipo_posti ── Topic: 23
+└─descrizione_titolo_violenza_comune_servizio
+     ├─nido_asilo_pannolini_nati_benvenuto
+     │    ├─asilo_nido_tagesmutter_servizio_convenzione
+     │    │    ├─asilo_nido_convenzione_conciliazione_servizio
+     │    │    │    ├─conciliazione_animazione_estivo_tempi_asilo
+     │    │    │    │    ├─■──animazione_animatori_bambini_occupare_divertente ── Topic: 48
+     │    │    │    │    └─conciliazione_estivo_tempi_asilo_lavoro
+     │    │    │    │         ├─■──estivo_asilo_calendarizzazione_custodia_efficace ── Topic: 57
+     │    │    │    │         └─■──conciliazione_lavoro_tempi_dipendenti_vita ── Topic: 55
+     │    │    │    └─asilo_nido_convenzione_servizio_infanzia
+     │    │    │         ├─■──asilo_nido_convenzione_servizio_infanzia ── Topic: 14
+     │    │    │         └─■──asilo_nido_tariffe_riduzione_icef ── Topic: 78
+     │    │    └─tagesmutter_servizio_contributo_icef_nido
+     │    │         ├─■──tagesmutter_contributo_servizio_icef_nido ── Topic: 32
+     │    │         └─■──tagesmutter_mantenimento_sorriso_servizio_riattivato ── Topic: 83
+     │    └─pannolini_nati_benvenuto_rifiuti_nuovi
+     │         ├─pannolini_rifiuti_tariffa_lavabili_tariffe
+     │         │    ├─■──ta_ri_utilizzate_fini_comma ── Topic: 97
+     │         │    └─pannolini_rifiuti_tariffa_lavabili_agevolazioni
+     │         │         ├─■──tariffe_tariffa_agevolazioni_tariffarie_rifiuti ── Topic: 28
+     │         │         └─■──pannolini_lavabili_rifiuti_tariffa_smaltimento ── Topic: 18
+     │         └─nati_benvenuto_nuovi_kit_figlio
+     │              ├─nati_benvenuto_nuovi_kit_nato
+     │              │    ├─■──gratis_pannolini_lombardia_nidi_regione ── Topic: 67
+     │              │    └─benvenuto_nati_nuovi_kit_nato
+     │              │         ├─■──benvenuto_nati_nuovi_kit_nato ── Topic: 16
+     │              │         └─■──figlio_contributo_acquisto_spendibile_nati ── Topic: 52
+     │              └─bonus_bebи_gas_elettrica_energia
+     │                   ├─■──bonus_bebи_nascita_buono_figlio ── Topic: 74
+     │                   └─■──gas_elettrica_bonus_energia_naturale ── Topic: 84
+     └─descrizione_titolo_violenza_family_donne
+          ├─descrizione_titolo_violenza_donne_genere
+          │    ├─persone_legna_anziani_intervento_19
+          │    │    ├─persone_legna_anziani_intervento_19
+          │    │    │    ├─legna_alloggi_ardere_casa_imis
+          │    │    │    │    ├─■──ucraina_profughi_ucraini_alloggi_emergenza ── Topic: 81
+          │    │    │    │    └─legna_alloggi_ardere_casa_imis
+          │    │    │    │         ├─■──legna_alloggi_ardere_casa_edilizia ── Topic: 19
+          │    │    │    │         └─■──imis_comodato_parenti_residenza_estende ── Topic: 75
+          │    │    │    └─persone_intervento_anziani_19_lavori
+          │    │    │         ├─persone_intervento_anziani_lavori_socialmente
+          │    │    │         │    ├─■──disabilitа_disabili_persone_indipendente_autismo ── Topic: 44
+          │    │    │         │    └─persone_intervento_anziani_lavori_socialmente
+          │    │    │         │         ├─■──anziani_persone_anziane_domicilio_sociale ── Topic: 17
+          │    │    │         │         └─■──lavori_intervento_socialmente_utili_occupazione ── Topic: 27
+          │    │    │         └─covid_prenotazione_resta_19_passo
+          │    │    │              ├─■──resta_passo_emergenza_casa_covid ── Topic: 79
+          │    │    │              └─■──covid_prenotazione_vaccino_vaccinazione_vaccinale ── Topic: 91
+          │    │    └─ambulatorio_pediatrico_medico_medici_ambulatori
+          │    │         ├─■──medici_multiservizi_farmacia_farmacie_medico ── Topic: 56
+          │    │         └─■──ambulatorio_pediatrico_medico_ambulatori_medici ── Topic: 39
+          │    └─violenza_descrizione_titolo_genere_donne
+          │         ├─violenza_genere_donne_giornata_ambientale
+          │         │    ├─violenza_genere_donne_prevenzione_sensibilizzazione
+          │         │    │    ├─azzardo_dipendenze_ludopatia_gioco_contrasto
+          │         │    │    │    ├─■──bullismo_cyberbullismo_educazione_fenomeno_tema ── Topic: 62
+          │         │    │    │    └─azzardo_dipendenze_ludopatia_gioco_slot
+          │         │    │    │         ├─■──azzardo_dipendenze_gioco_ludopatia_slot ── Topic: 24
+          │         │    │    │         └─■──laghi_valle_chiamo_comuni_ludopatia ── Topic: 61
+          │         │    │    └─violenza_genere_donne_prevenzione_donna
+          │         │    │         ├─■──violenza_genere_donne_donna_sensibilizzazione ── Topic: 7
+          │         │    │         └─■──salute_prevenzione_lilt_tumori_rosa ── Topic: 36
+          │         │    └─ambientale_ecologica_giornata_ambiente_emas
+          │         │         ├─ambientale_ecologica_giornata_ambiente_alberi
+          │         │         │    ├─passeggiate_sentieri_percorso_mappatura_percorsi
+          │         │         │    │    ├─■──passeggiate_sentieri_mappatura_family_percorsi ── Topic: 34
+          │         │         │    │    └─■──percorso_sentiero_sentieri_ripristino_sentieristica ── Topic: 35
+          │         │         │    └─ambientale_ecologica_giornata_ambiente_alberi
+          │         │         │         ├─ecologica_ambientale_giornata_alberi_ambiente
+          │         │         │         │    ├─■──alberi_festa_bosco_forestale_orto ── Topic: 30
+          │         │         │         │    └─■──ecologica_ambientale_giornata_ambiente_rifiuti ── Topic: 13
+          │         │         │         └─mobilitа_stradale_sicurezza_orti_ricarica
+          │         │         │              ├─mobilitа_stradale_sicurezza_ricarica_bike
+          │         │         │              │    ├─■──ricarica_bike_colonnine_mobilitа_elettriche ── Topic: 38
+          │         │         │              │    └─■──stradale_sicurezza_pedibus_strade_attraversamenti ── Topic: 22
+          │         │         │              └─■──orti_urbanistica_pianificazione_terreno_orto ── Topic: 31
+          │         │         └─emas_certificazione_videosorveglianza_ambientale_ambientali
+          │         │              ├─emas_certificazione_ambientale_ambientali_regolamento
+          │         │              │    ├─■──emas_certificazione_ambientali_ambientale_sistema ── Topic: 41
+          │         │              │    └─■──regolamenti_camini_regolamento_fumarie_canne ── Topic: 94
+          │         │              └─■──videosorveglianza_telecamere_video_sistema_varchi ── Topic: 71
+          │         └─parcheggi_family_rosa_uffici_descrizione
+          │              ├─parcheggi_rosa_uffici_baby_apertura
+          │              │    ├─sci_levico_ski_piscina_pass
+          │              │    │    ├─sci_ski_piscina_pass_ginnastica
+          │              │    │    │    ├─sci_ski_pass_ginnastica_yoga
+          │              │    │    │    │    ├─■──yoga_ginnastica_pratiche_karate_buone ── Topic: 87
+          │              │    │    │    │    └─sci_ski_pass_palestra_agevolato
+          │              │    │    │    │         ├─■──sci_ginnastica_palestra_coste_bolbeno ── Topic: 60
+          │              │    │    │    │         └─■──ski_pass_sci_agevolato_stagionale ── Topic: 47
+          │              │    │    │    └─piscina_tariffe_malи_tennis_agevolate
+          │              │    │    │         ├─■──piscina_banale_lorenzo_nuoto_convenzionati ── Topic: 66
+          │              │    │    │         └─tennis_fiemme_acquacenter_sgs_stadio
+          │              │    │    │              ├─■──fiemme_acquacenter_sgs_iscrizione_molina ── Topic: 89
+          │              │    │    │              └─■──tennis_calcetto_campi_comprendente_campo ── Topic: 86
+          │              │    │    └─levico_terme_da_ripropone_alleggerire
+          │              │    │         ├─■──alleggerire_stabilire_visite_minori_benne ── Topic: 93
+          │              │    │         └─■──levico_terme_da_ripropone_pomeriggi ── Topic: 76
+          │              │    └─parcheggi_rosa_uffici_baby_apertura
+          │              │         ├─parcheggi_rosa_uffici_baby_apertura
+          │              │         │    ├─parcheggi_rosa_uffici_baby_apertura
+          │              │         │    │    ├─parcheggi_rosa_baby_parcheggio_fasciatoio
+          │              │         │    │    │    ├─■──aziende_attivano_aziendali_sitter_flessibili ── Topic: 95
+          │              │         │    │    │    └─parcheggi_rosa_baby_parcheggio_fasciatoio
+          │              │         │    │    │         ├─■──baby_home_little_pit_stop ── Topic: 25
+          │              │         │    │    │         └─■──parcheggi_rosa_parcheggio_gravidanza_fasciatoio ── Topic: 11
+          │              │         │    │    └─uffici_apertura_orario_comunali_orari
+          │              │         │    │         ├─wifi_digitale_internet_free_tecnologie
+          │              │         │    │         │    ├─■──wifi_free_wi_fi_internet ── Topic: 42
+          │              │         │    │         │    └─digitale_tecnologie_digitali_internet_media
+          │              │         │    │         │         ├─■──internet_mlol_accesso_ebook_biblioteca ── Topic: 64
+          │              │         │    │         │         └─■──digitale_tecnologie_digitali_informatica_media ── Topic: 29
+          │              │         │    │         └─uffici_apertura_orario_comunali_orari
+          │              │         │    │              ├─■──suggerimenti_cassetta_reclami_ascolto_sportello ── Topic: 43
+          │              │         │    │              └─■──uffici_apertura_orario_comunali_orari ── Topic: 20
+          │              │         │    └─terza_universitа_laboratori_creativi_natale
+          │              │         │         ├─terza_universitа_etа_illumino_lingua
+          │              │         │         │    ├─lingua_madrelingua_cre_inglese_lingue
+          │              │         │         │    │    ├─■──cre_estivi_parrocchie_importanti_impegnate ── Topic: 80
+          │              │         │         │    │    └─lingua_madrelingua_inglese_lingue_tedesco
+          │              │         │         │    │         ├─■──straniere_integrazione_stranieri_italiana_corsi ── Topic: 63
+          │              │         │         │    │         └─■──lingua_madrelingua_inglese_tedesco_lingue ── Topic: 50
+          │              │         │         │    └─terza_universitа_illumino_etа_alimentare
+          │              │         │         │         ├─alimentare_raccolta_caritas_spreco_solidale
+          │              │         │         │         │    ├─alimentare_caritas_spreco_solidale_alimentari
+          │              │         │         │         │    │    ├─■──caritas_situazioni_decanale_bisognose_assistendo ── Topic: 88
+          │              │         │         │         │    │    └─■──alimentare_spreco_solidale_alimentari_primiero ── Topic: 46
+          │              │         │         │         │    └─conferimento_persona_integrati_raccolta_rifiuti
+          │              │         │         │         │         ├─■──conferimento_raccolta_rifiuti_conferire_parentela ── Topic: 73
+          │              │         │         │         │         └─■──integrati_concorrere_globale_biblioteche_progetti ── Topic: 82
+          │              │         │         │         └─terza_universitа_illumino_etа_disponibile
+          │              │         │         │              ├─festival_paganella_intergenerazionale_scambio_andalo
+          │              │         │         │              │    ├─■──compiti_limiti_attivati_realtа_attualmente ── Topic: 98
+          │              │         │         │              │    └─festival_paganella_intergenerazionale_scambio_andalo
+          │              │         │         │              │         ├─paganella_intergenerazionale_scambio_altropiano_giovani
+          │              │         │         │              │         │    ├─■──intergenerazionale_scambio_generazioni_pensionati_anziani ── Topic: 72
+          │              │         │         │              │         │    └─■──paganella_altropiano_andalo_giovani_piano ── Topic: 58
+          │              │         │         │              │         └─■──festival_gioco_alpe_orme_edizione ── Topic: 68
+          │              │         │         │              └─terza_universitа_illumino_etа_disponibile
+          │              │         │         │                   ├─terza_universitа_etа_disponibile_annuale
+          │              │         │         │                   │    ├─■──terza_universitа_etа_disponibile_tempo ── Topic: 40
+          │              │         │         │                   │    └─■──autovalutazione_annuale_piano_documento_monitorare ── Topic: 49
+          │              │         │         │                   └─■──illumino_meno_energetico_risparmio_campagna ── Topic: 59
+          │              │         │         └─creativi_laboratori_natale_ecomuseo_babbo
+          │              │         │              ├─creativi_natale_laboratori_babbo_natalizio
+          │              │         │              │    ├─■──natale_babbo_natalizio_eventi_pasqua ── Topic: 51
+          │              │         │              │    └─■──creativi_laboratori_laboratorio_burro_bambini ── Topic: 45
+          │              │         │              └─■──ecomuseo_turistico_borlezza_laboratori_viaggiatori ── Topic: 70
+          │              │         └─studenti_meritevoli_stage_studio_borse
+          │              │              ├─stage_studenti_madonna_stagisti_campiglio
+          │              │              │    ├─■──stage_madonna_campiglio_pinzolo_studenti ── Topic: 54
+          │              │              │    └─■──stagisti_tirocinanti_studenti_accoglienza_superiori ── Topic: 90
+          │              │              └─■──meritevoli_borse_studio_studenti_premi ── Topic: 53
+          │              └─family_audit_standard_marchio_certificazioni
+          │                   ├─family_audit_marchio_standard_certificazioni
+          │                   │    ├─■──standard_accordo_effettive_adeguare_prioritario ── Topic: 33
+          │                   │    └─family_audit_marchio_certificazioni_premianti
+          │                   │         ├─■──family_audit_certificazioni_premianti_certificazione ── Topic: 21
+          │                   │         └─■──serata_marchio_informativa_ricadute_significato ── Topic: 96
+          │                   └─■──card_family_pubblicizza_vantaggi_tramite ── Topic: 65
+          └─pagina_facebook_sito_telegram_web
+               ├─telegram_whatsapp_sms_facebook_canale
+               │    ├─telegram_sms_canale_social_implementazione
+               │    │    ├─■──implementazione_social_quant_gruppi_reale ── Topic: 92
+               │    │    └─■──telegram_sms_canale_riguardano_comunicazioni ── Topic: 69
+               │    └─■──whatsapp_facebook_tasca_notizie_segnalare ── Topic: 77
+               └─pagina_sito_web_facebook_dedicata
+                    ├─■──sito_facebook_pagina_web_internet ── Topic: 37
+                    └─■──pagina_dedicata_spiegare_intraprese_web ── Topic: 85
